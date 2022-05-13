@@ -30,6 +30,7 @@ public class Prjava02 {
         catch (IOException e) {
 		System.out.println("Exception occurred"); //test
         System.out.println("primer edit");
+        System.out.println("segundo edit");
         }  
     }
 }
